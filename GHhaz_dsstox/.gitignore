@@ -1,0 +1,8 @@
+# API key - never commit
+comptox_api_key.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
